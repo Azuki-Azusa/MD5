@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MD5:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MD5_jar</output-path>
+    <root id="archive" name="MD5.jar">
+      <element id="module-output" name="MD5" />
+    </root>
+  </artifact>
+</component>
